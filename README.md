@@ -52,4 +52,5 @@ public class OrderTest {
   }
 }
 
+UML Class Diagram:
 ![ERD](https://github.com/AdrielFlorante/SE-Lab-Assignment-Order-Invoices/blob/main/Lab%20Assignment%20Order%20Invoices%20Diagram.png)
